@@ -33,5 +33,6 @@ Power BI • DAX • Retail Metrics
 > See my pinned repos below for full notebooks and code.
 ---
 📬 Let's Connect!
+https://t.me/rooztum
 📧 rooztum@gmail.com
 💼 LinkedIn: www.linkedin.com/in/rustam-zhanybaev-a5a933153
