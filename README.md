@@ -10,11 +10,13 @@ Career switcher with 20 years of background in video surveillance, now focused o
 Passionate about transforming raw data into actionable insights
 Interested in customer retention, product performance, and operational efficiency
 Exploring product/market fit and user behavior in marketplaces and digital finance
+
 ---
 🛠️ Tools & Skills
 Language & Analysis	Visualization	Data Handling	Other
 Python (Pandas, NumPy, Seaborn)	Power BI, Tableau	SQL (PostgreSQL, MySQL)	Excel, Google Sheets
 A/B Testing, Cohort Analysis	Matplotlib, Seaborn	Data Cleaning, EDA	Git, Markdown
+
 ---
 📂 Projects
 Here are a few of my recent analytics projects:
