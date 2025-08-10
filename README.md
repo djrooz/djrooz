@@ -14,8 +14,8 @@ Exploring product/market fit and user behavior in marketplaces and digital finan
 ---
 🛠️ Tools & Skills
 Language & Analysis	Visualization	Data Handling	Other
-Python (Pandas, NumPy, Seaborn)	Power BI, Tableau	SQL (PostgreSQL, MySQL)	Excel, Google Sheets
-A/B Testing, Cohort Analysis	Matplotlib, Seaborn	Data Cleaning, EDA	Git, Markdown
+Python (Pandas, NumPy, Seaborn)	Power BI, Tableau	SQL (PostgreSQL, MySQL)	Excel (Pivot, Power Query), Google Sheets
+A/B Testing, Cohort Analysis,	Data Cleaning, EDA	Git, Markdown
 
 ---
 📂 Projects
