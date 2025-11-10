@@ -1,6 +1,6 @@
 Hi, I’m Rustam!
 
-📊 Data Analyst | Python • SQL • Power BI • Tableau • Excel
+📊 Data/Product Analyst | Python • SQL • Power BI  • Excel
 
 Focused on solving real-world business problems in Retail and Fintech
 
